@@ -1,0 +1,26 @@
+.description {
+    .heading {
+         h1{
+            font-size: 36px;
+            line-height: 48px;
+            font-weight: bold;
+            margin: 20px 0px 40px 0px;
+            font-family: $mainHeading;
+            letter-spacing: -0.045em;
+        }
+    }
+    .team-desc {
+        font-family: $mainText;
+        h3{
+            font-size: 18px;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 14px;
+        }
+    }
+
+    
+}
